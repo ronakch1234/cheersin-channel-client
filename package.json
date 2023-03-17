@@ -1,8 +1,8 @@
 {
   "name": "@cheersin/messaging",
-  "version": "1.1.8",
-  "description": "Botpress messaging repo",
-  "author": "Botpress, Inc.",
+  "version": "0.0.1",
+  "description": "Cheersin messaging repo",
+  "author": "Cheersin, Inc.",
   "license": "AGPL-3.0",
   "scripts": {
     "eslint": "eslint packages/ --ext .ts",
